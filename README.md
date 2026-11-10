@@ -1,1 +1,1 @@
-Objectif : analyser les ventes
+Objectif : analyser les vente par produit.
