@@ -1,1 +1,2 @@
-Objectif : analyser les ventes par catégorie.
+<<<<<<< HEAD
+Objectif : analyser les vente par produit et par catégorie.
